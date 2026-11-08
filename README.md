@@ -30,12 +30,12 @@ Estatísticas da NBA com dados ao vivo: confrontos H2H entre times, elencos, per
 
 ## Tecnologias
 
-**Back-end:** PHP · Laravel · Node.js · TypeScript · Express.js
-**Front-end:** React · Next.js · JavaScript · Tailwind CSS · HTML · CSS
-**Banco de dados:** MySQL · Prisma · Knex.js
-**APIs e arquitetura:** REST · SOAP · XML · Swagger · Clean Architecture · Microsserviços
-**Infra e ferramentas:** Docker · Kubernetes · Linux · Git
-**IA no dia a dia:** Claude Code · ChatGPT
+- **Back-end:** PHP · Laravel · Node.js · TypeScript · Express.js
+- **Front-end:** React · Next.js · JavaScript · Tailwind CSS · HTML · CSS
+- **Banco de dados:** MySQL · Prisma · Knex.js
+- **APIs e arquitetura:** REST · SOAP · XML · Swagger · Clean Architecture · Microsserviços
+- **Infra e ferramentas:** Docker · Kubernetes · Linux · Git
+- **IA no dia a dia:** Claude Code · ChatGPT
 
 ---
 
