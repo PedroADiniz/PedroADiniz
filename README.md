@@ -35,7 +35,7 @@ Estatísticas da NBA com dados ao vivo: confrontos H2H entre times, elencos, per
 - **Banco de dados:** MySQL · Prisma · Knex.js
 - **APIs e arquitetura:** REST · SOAP · XML · Swagger · Clean Architecture · Microsserviços
 - **Infra e ferramentas:** Docker · Kubernetes · Linux · Git
-- **IA no dia a dia:** Claude Code · ChatGPT
+- **IA no dia a dia:** Claude Code · Gemini · GitHub Copilot
 
 ---
 
